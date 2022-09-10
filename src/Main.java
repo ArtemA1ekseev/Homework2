@@ -77,6 +77,5 @@ public class Main {
         TotalEmployees = TotalEmployees + 94;
         var TotalOpeningHours2 = TotalEmployees * 8;
         System.out.println("Если в компании работает " + TotalEmployees + " человек, " + "то всего " + TotalOpeningHours2 + " часов работы может быть поделено между сотрудниками.");
-
     }
 }
