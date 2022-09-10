@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         // Задача 1.
         var dog = 8.0;
         var cat = 3.6;
